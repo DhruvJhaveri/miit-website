@@ -1,0 +1,50 @@
+/**
+ * Register of every third-party source clip used in the site's media.
+ * All clips: Mixkit Stock Video Free License (https://mixkit.co/license/#videoFree).
+ * Footage is real, licensed stock — illustrative only; it does not depict MIIT's
+ * premises, staff, stock, customers or shipments. Edited and colour-graded for
+ * this website by scripts/media/build_media.py.
+ */
+export const mixkitClips: { id: string; title: string; usedIn: string }[] = [
+  { id: "17897", title: "Industrial machinery at work and furnace", usedIn: "Scroll film (opening)" },
+  { id: "1675", title: "Top aerial view of a factory during night time", usedIn: "Scroll film" },
+  { id: "2252", title: "Industrial razor cutter", usedIn: "Scroll film; aluminium category" },
+  { id: "2247", title: "A drilling machine drilling steel", usedIn: "Scroll film; engineering tools category" },
+  { id: "46082", title: "Sparks flying off of an angle grinder cutting a piece", usedIn: "Scroll film; cutting & grinding category" },
+  { id: "21045", title: "Cutting steel in a factory", usedIn: "Scroll film" },
+  { id: "32822", title: "Screws falling to a mat", usedIn: "Scroll film; fasteners category" },
+  { id: "47641", title: "Long metal chain is placed against a white background", usedIn: "Scroll film; product loop; mechanical category" },
+  { id: "32824", title: "Industrial machinery pipeline", usedIn: "Scroll film; pipes & valves category" },
+  { id: "22194", title: "Petroleum processing refinery", usedIn: "Scroll film" },
+  { id: "36318", title: "Large container area working at night", usedIn: "Scroll film (finale); editorial" },
+  { id: "2236", title: "Industrial lathe machine", usedIn: "Product macro loop" },
+  { id: "34740", title: "Sparks from a grinder close-up", usedIn: "Product macro loop" },
+  { id: "2242", title: "Industrial cutter scraping iron", usedIn: "Product macro loop" },
+  { id: "30756", title: "Sparks falling into industrial gears", usedIn: "Product macro loop" },
+  { id: "12341", title: "Grunge industrial gears slow motion", usedIn: "Product macro loop" },
+  { id: "4705", title: "Young worker doing inventory", usedIn: "Logistics loop; editorial" },
+  { id: "45848", title: "View of a forklift driver operating in a warehouse", usedIn: "Logistics loop" },
+  { id: "23011", title: "Freight truck arriving at the warehouse", usedIn: "Logistics loop" },
+  { id: "31019", title: "Container cranes unloading a cargo ship", usedIn: "Logistics loop" },
+  { id: "30955", title: "From day to night in the Hong Kong container port", usedIn: "Logistics loop; exports industry" },
+  { id: "40723", title: "Complex industrial construction made with metal beams", usedIn: "Structural category" },
+  { id: "32825", title: "Female worker checks pressure levels in machines", usedIn: "Instrumentation category" },
+  { id: "47290", title: "Worker welding metal parts in a workshop", usedIn: "Safety category" },
+  { id: "14631", title: "Industrial manufacturing factory from above", usedIn: "Manufacturing industry" },
+  { id: "20906", title: "Molten metal in a foundry", usedIn: "Foundries industry" },
+  { id: "2230", title: "Industrial machine working", usedIn: "CNC/VMC industry" },
+  { id: "31450", title: "Construction site and cranes working time lapse", usedIn: "Construction industry" },
+  { id: "47293", title: "Welder welding construction steel frames", usedIn: "Contractors industry" },
+  { id: "28073", title: "Oil processing plant in the day", usedIn: "EPC industry" },
+  { id: "11212", title: "Industrial steel bridge", usedIn: "Infrastructure industry" },
+  { id: "65", title: "Closeup of sports car engine", usedIn: "Automobile & engineering industry" },
+  { id: "4360", title: "Petrochemical plant lit up at night", usedIn: "Oil & gas industry" },
+  { id: "2248", title: "A drill drilling steel", usedIn: "Editorial (heritage)" },
+  { id: "4012", title: "Cranes working on unloading dock", usedIn: "Case study" },
+  { id: "26467", title: "Trucks in a steel factory", usedIn: "Procurement page" },
+  { id: "4359", title: "Petrochemical plant at night", usedIn: "Editorial" },
+  { id: "24984", title: "Metal lathe spinning quickly", usedIn: "Editorial" },
+  { id: "12342", title: "Close-up to industrial gears", usedIn: "Editorial" },
+  { id: "34739", title: "Sparks from a grinder in the factory", usedIn: "Editorial" },
+  { id: "23010", title: "An engineer working through the warehouse", usedIn: "Procurement page" },
+];

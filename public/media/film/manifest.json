@@ -1,0 +1,16 @@
+{
+  "desktop": {
+    "frames": 240,
+    "duration": 25.8,
+    "ext": "webp",
+    "width": 1280,
+    "height": 720
+  },
+  "mobile": {
+    "frames": 160,
+    "duration": 25.8,
+    "ext": "webp",
+    "width": 540,
+    "height": 960
+  }
+}
